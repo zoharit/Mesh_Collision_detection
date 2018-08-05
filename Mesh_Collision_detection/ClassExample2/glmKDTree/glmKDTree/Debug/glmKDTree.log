@@ -1,0 +1,6 @@
+﻿  main.cpp
+  kdtree.cpp
+c:\users\zohar\desktop\vgp2\glmkdtree\glmkdtree\kdtree.cpp(35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\zohar\desktop\vgp2\glmkdtree\glmkdtree\kdtree.cpp(74): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  glmKDTree.vcxproj -> C:\Users\zohar\Desktop\vgp2\glmKDTree\Debug\glmKDTree.exe
